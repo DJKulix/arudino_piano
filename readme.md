@@ -22,7 +22,7 @@ void loop(){
 
 
     //odcztaj wartosc z przycisku za pomoca digitalRead()
-    int wcisniety = digitalRead(przycisk);
+    int wcisniety = ;
 
     //Prosty sygnal dzwiekowy przez jedna sekunde
     if(wcisniety == 1){
